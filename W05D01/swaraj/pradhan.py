@@ -1,0 +1,2 @@
+x = 'apple'
+y = 'mango'
