@@ -1,1 +1,6 @@
 test123
+  doHandleClickLink() {
+    window.open('https://developers.facebook.com/docs/whatsapp/support','_blank');
+  }
+
+   <span onclick={doHandleClickLink}>Visit su</span>
