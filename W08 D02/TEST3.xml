@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<company>
+	<employee>
+		<name>Alaya</name>
+		<phone>3290349906</phone>
+		<email>alaya@example.com</email>
+		<date>2019-03-02 11:16:07</date>
+	</employee>
+	<employee>
+		<name>Carle</name>
+		<phone>9059098968</phone>
+		<email>carle@example.com</email>
+		<date>2019-06-01 10:06:07</date>
+	</employee>
+	<employee>
+		<name>Amma</name>
+		<phone>6750390948</phone>
+		<email>amma@example.com</email>
+		<date>2019-04-05 16:30:07</date>
+	</employee>
+</company>

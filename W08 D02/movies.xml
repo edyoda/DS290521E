@@ -1,0 +1,23 @@
+<collection>
+    <genre category="Action">
+        <decade years="1980s">
+            <movie favorite="True" title="Indiana Jones: The raiders of the lost Ark">
+            
+                <description>
+                'Archaeologist and adventurer Indiana Jones 
+                is hired by the U.S. government to find the Ark of the 
+                Covenant before the Nazis.'
+                </description>
+            </movie>
+               <movie favorite="True" title="THE KARATE KID">
+               <description>None provided.</description>
+            </movie>
+
+        </decade>
+        <decade years="1990s">
+            <movie favorite="False" title="Reservoir Dogs">
+               <description>WhAtEvER I Want!!!?!</description>
+            </movie>
+        </decade>    
+    </genre>
+</collection>
